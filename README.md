@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Jesús García" width="100%">
+  <img src="https://raw.githubusercontent.com/Plexor14pro/Plexor14pro/main/banner.svg" alt="Jesús García" width="100%">
 </p>
 
 <h3 align="center">Full Stack Developer</h3>
