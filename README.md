@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="./banner.svg" alt="Banner" width="100%">
+  <img src="./banner.svg" alt="Jesús García" width="100%">
 </p>
 
-<h3 align="center">Full Stack Developer</h3>
+<h1 align="center">Jesús García (Plexor)</h1>
 
 <p align="center">
-  <em>Building software that solves real problems.</em>
+  <strong>Full Stack Developer</strong> • Building software that solves real problems.
 </p>
 
 <p align="center">
@@ -21,9 +21,7 @@
 
 ### About
 
-Developer focused on **Full Stack Development** and **Software Engineering**. I build web applications, automation tools, and scalable backend systems.
-
-Building software through **[Plexor](https://plexor.onrender.com)**.
+Soy desarrollador Full Stack con experiencia en construir aplicaciones web, herramientas de automatizaci��n y sistemas backend escalables. Actualmente construyendo Plexor — soluciones de automatización para pequeñas empresas.
 
 ---
 
@@ -41,26 +39,22 @@ Building software through **[Plexor](https://plexor.onrender.com)**.
 
 ---
 
-### Currently
-
-- Building and scaling **Plexor**
-- Learning software architecture & system design
-- Exploring AI integration in web applications
-
----
-
 ### Featured Projects
 
-- [Plexor](https://github.com/Plexor14pro/plexor-v5) — Automation platform for small businesses.
-- [YouTube Downloader](https://github.com/Plexor14pro/youtube-downloader) — Desktop app to download videos.
+- [Plexor](https://github.com/Plexor14pro/plexor-v5) — Plataforma de automatización: facturas, agendas, recordatorios y chatbot.
+- [YouTube Downloader](https://github.com/Plexor14pro/youtube-downloader) — App de escritorio (GUI + CLI) para descargar videos de YouTube.
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plexor14pro&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=7c3aed&icon_color=a855f7&text_color=e4e4e7&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plexor14pro&theme=chartreuse-dark&background=0a0a0a&ring=7c3aed&fire=a855f7&currStreakLabel=c084fc" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Plexor14pro&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=7c3aed&icon_color=a855f7&text_color=e4e4e7&border_color=27272a" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plexor14pro&theme=chartreuse-dark&background=0a0a0a&ring=7c3aed&fire=a855f7&currStreakLabel=c084fc&sideLabels=e4e4e7" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plexor14pro&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&title_color=7c3aed&text_color=e4e4e7&border_color=27272a&hide=Jupyter+Notebook"/>
 </p>
 
 ---
