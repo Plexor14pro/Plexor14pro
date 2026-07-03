@@ -37,15 +37,6 @@ Building software through **[Plexor](https://plexor.onrender.com)**.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plexor14pro&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=7c3aed&icon_color=a855f7&text_color=e4e4e7&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plexor14pro&theme=chartreuse-dark&background=0a0a0a&ring=7c3aed&fire=a855f7&currStreakLabel=c084fc" width="48%"/>
-</p>
-
----
-
 ### Connect
 
 <p align="center">
