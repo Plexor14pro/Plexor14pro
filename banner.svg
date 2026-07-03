@@ -36,7 +36,7 @@
   <rect x="100" y="148" width="60" height="3" rx="1.5" fill="url(#purple)"/>
 
   <!-- Name -->
-  <text x="100" y="190" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Jesús García</text>
+  <text x="100" y="190" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="700" fill="#ffffff" letter-spacing="-0.5">Jesus David</text>
 
   <!-- Tagline -->
   <text x="100" y="222" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="400" fill="#a1a1aa" letter-spacing="0.5">Building scalable software.</text>
