@@ -1,24 +1,3 @@
-<p align="center">
-  <img src="./banner.svg" alt="Jesus David" width="100%">
-</p>
-
-<h3 align="center">Software Developer</h3>
-
-<p align="center">
-  <em>Building software that solves real problems.</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Plexor14pro?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/Plexor14pro?color=7c3aed&style=for-the-badge" alt="Stars"/>
-  </a>
-  <a href="https://github.com/Plexor14pro">
-    <img src="https://img.shields.io/github/followers/Plexor14pro?color=7c3aed&label=Followers&style=for-the-badge" alt="Followers"/>
-  </a>
-</p>
-
----
-
 ### About
 
 Developer focused on **Software Engineering** and **Full Stack Development**. I build web applications, automation tools, and scalable backend systems.
