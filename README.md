@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Plexor14pro/Plexor14pro/main/banner.svg" alt="Jesús García" width="100%">
+  <img src="./banner.svg" alt="Banner" width="100%">
 </p>
 
 <h3 align="center">Full Stack Developer</h3>
@@ -23,7 +23,9 @@
 
 Developer focused on **Full Stack Development** and **Software Engineering**. I build web applications, automation tools, and scalable backend systems.
 
-Currently building through **[Plexor](https://plexor.onrender.com)** — automation software for small businesses.
+Building software through **[Plexor](https://plexor.onrender.com)**.
+
+---
 
 ### Tech Stack
 
@@ -35,54 +37,30 @@ Currently building through **[Plexor](https://plexor.onrender.com)** — automat
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API"/>
 </p>
 
 ---
 
 ### Currently
 
-- 🔨 Building and scaling **Plexor**
-- 📚 Learning software architecture & system design
-- 🤖 Exploring AI integration in web applications
+- Building and scaling **Plexor**
+- Learning software architecture & system design
+- Exploring AI integration in web applications
 
 ---
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/Plexor14pro/plexor-v5">Plexor</a></h4>
-      <p>Automation platform for small businesses — invoices, scheduling, reminders & chatbot.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/Render-000000?style=flat-square" alt="Render"/>
-      </p>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/Plexor14pro/youtube-downloader">YouTube Downloader</a></h4>
-      <p>Desktop app with GUI and CLI to download YouTube videos in Python.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square" alt="Tkinter"/>
-      </p>
-    </td>
-  </tr>
-</table>
+- [Plexor](https://github.com/Plexor14pro/plexor-v5) — Automation platform for small businesses.
+- [YouTube Downloader](https://github.com/Plexor14pro/youtube-downloader) — Desktop app to download videos.
 
 ---
 
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Plexor14pro&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=7c3aed&icon_color=a855f7&text_color=e4e4e7&border_color=27272a&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plexor14pro&theme=chartreuse-dark&background=0a0a0a&ring=7c3aed&fire=a855f7&currStreakLabel=c084fc&sideLabels=e4e4e7" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Plexor14pro&layout=compact&theme=chartreuse-dark&bg_color=0a0a0a&title_color=7c3aed&text_color=e4e4e7&border_color=27272a&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Plexor14pro&show_icons=true&theme=chartreuse-dark&bg_color=0a0a0a&title_color=7c3aed&icon_color=a855f7&text_color=e4e4e7&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Plexor14pro&theme=chartreuse-dark&background=0a0a0a&ring=7c3aed&fire=a855f7&currStreakLabel=c084fc" width="48%"/>
 </p>
 
 ---
